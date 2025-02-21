@@ -69,4 +69,4 @@ templates_path = [
 
 # sphinx-multiversion
 # All branches except 'master'
-smv_branch_whitelist = r'^(?!chinese).*$'
+# smv_branch_whitelist = r'^(?!chinese).*$'
