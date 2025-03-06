@@ -20,7 +20,7 @@
 ---------------------
 
 1. **获取安装包**：
-   从 `下载中心 <https://daoairoboticsinc-my.sharepoint.com/:f:/g/personal/nrd_daoai_com/EusMJb0vg99JqlNCU-sQPEEBG5oWf0cm7CPLuwWfiK1EJQ?e=Ab4UHl>`_ 下载 DaoAI AOI 安装包。
+   从 `下载中心 <https://daoairoboticsinc-my.sharepoint.com/:f:/g/personal/nrd_daoai_com/Ei93WheqXzhBvlFj_hFnXRwBsD0R5zCmMFXcAWTzeowaow?e=cpSddL>`_ 下载 DaoAI AOI 安装包。
 
 2. **运行安装程序**：
    双击安装包，选择安装路径。
