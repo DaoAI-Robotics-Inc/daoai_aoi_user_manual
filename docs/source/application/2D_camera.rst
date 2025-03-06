@@ -1,5 +1,8 @@
-2D相机配置（USB端口相机）
+2D相机配置
 =================================
+
+USB端口相机
+--------------------------
 
 1.首先下载并打开Zadig工具
     .. image:: ./images/13.png
@@ -28,4 +31,29 @@
 7.把AOI中复制的序列号粘贴到sensor_config的json文件中，在Camera_name后面
     .. image:: ./images/19.png
       :scale: 50%
+
+8.从新进入AOI系统即可
       
+Gige网口相机配置
+---------------------------
+1.打开AOI的界面，点击右下角的设置，选择编辑系统配置
+    .. image:: ./images/16.png
+      :scale: 50%
+
+2.可以看到提示相机的序列号，复制这个序列号
+    .. image:: ./images/17.png
+      :scale: 50%
+
+3.从路径中C:\Program Files\DaoAI AOI\capture_agent找到sensor_config的json文件，双击打开，可用记事本的方式进行打开
+    .. image:: ./images/18.png
+      :scale: 50%
+
+4.把AOI中复制的序列号粘贴到sensor_config的json文件中，在Camera_name后面
+    .. image:: ./images/19.png
+      :scale: 50%
+
+5.从新进入AOI系统即可
+
+- **注：在3D相机使用时不用在sensor_config修改相机序列号，只需把is_3D后更改为true即可**
+   .. image:: ./images/139.png
+      :scale: 50%

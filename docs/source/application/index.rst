@@ -14,4 +14,6 @@
    ROI
    detect_mode
    NG
+   training_set
    data_export
+   Modbus

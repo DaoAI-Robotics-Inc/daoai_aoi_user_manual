@@ -62,7 +62,9 @@ DaoAI AOI（Automated Optical Inspection） 是一款面向工业精密制造领
    application/ROI
    application/detect_mode
    application/NG
+   application/training_set
    application/data_export
+   application/modbus
 
 .. toctree::
    :maxdepth: 2

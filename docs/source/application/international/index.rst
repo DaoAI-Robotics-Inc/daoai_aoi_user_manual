@@ -3,16 +3,28 @@
 =================================
 
 
-1.打开C:\\Program Files\\DaoAI AOI路径下的launch文件
-    .. image:: ./images/7.png
-      :scale: 80%
+1.打开桌面的DaoAI AOI快捷方式
+    .. image:: ./images/图片1.png
+      :scale: 100%
   
-2.可以看到在Net Work中，复制红框内的地址后在同一局域网下的另一台电脑，打开浏览器输入复制的地址进入，即可打开同一局域网内的AOI系统
-    .. image:: ./images/9.png
+2.点击OK
+    .. image:: ./images/110.png
+      :scale: 80%
+  再次点击红框内的链接
+
+    .. image:: ./images/112.png
+      :scale: 80%
+  即可进到AOI的系统中
+    .. image:: ./images/113.png
       :scale: 80%
       
-3.进入后会有弹窗，在弹窗内输入复制的地址，并更改端口为8000，如下图即可使用AOI系统
-    .. image:: ./images/10.png
-      :scale: 50%
-    .. image:: ./images/11.png
-      :scale: 50%
+3.打开命令提示符，输入ipconfig,找到本机电脑的地址，记住此地址
+    .. image:: ./images/114.png
+      :scale: 80%
+   
+4.在同局域网下的另一台电脑上，打开浏览默输入我们之前记住的地址
+    .. image:: ./images/115.png
+      :scale: 80%
+  进入后即可实现同局域网下的AOI访问
+    .. image:: ./images/116.png
+      :scale: 80%
