@@ -38,8 +38,8 @@
 ---------------------------
 
 1.首先应确保正确安装了相机驱动，包含GigE驱动。并且可以用相机官方软件发现。
-      .. image:: ./images/hik_install.png
-      :scale: 50%
+    .. image:: ./images/hik_install.png
+      :scale: 90%
 
 2.打开AOI的界面，点击右下角的设置，选择编辑系统配置
     .. image:: ./images/16.png
