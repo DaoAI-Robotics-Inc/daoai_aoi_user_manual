@@ -159,11 +159,6 @@
    .. image:: ./image/95.png
       :scale: 50%
 
-   使用画笔涂抹不良区域，点击提交掩膜和反馈
-
-   .. image:: ./image/96.png
-      :scale: 50%
-
    用当前模型跑10次左右的产品，反馈数据后重新训练模型即可
 
    .. image:: ./image/97.png
