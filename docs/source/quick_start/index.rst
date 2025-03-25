@@ -3,6 +3,16 @@
 
 本章将指导用户完成 DaoAI AOI 软件的安装、基础配置及首次检测流程，帮助您快速上手系统操作。
 
+.. raw:: html
+  
+  <div style="position: relative; padding-bottom: 0.25%; height: 0; overflow: hidden; max-width: 80%; height: auto;">
+      <video width="80%" height="auto" controls>
+          <source src="http://docs.welinkirt.com/static/videos/aoi_tut.mp4" type="video/mp4">
+      </video>
+  </div>
+
+|
+
 系统要求
 ----------------
 
@@ -15,11 +25,6 @@
   - **内存**：16GB及以上
   - **存储**：预留50GB SSD空间
   - **GPU**：系统最低要求：NVIDIA GTX 1050Ti；推荐配置：NVIDIA RTX 3060及以上，以充分发挥系统性能。
-
-
-
-
-
 
 
 
